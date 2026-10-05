@@ -1,0 +1,8 @@
+transaction_id,date,device_type,brand,estimated_price_thb,data_wiped_status,status
+TXN-001,2026-09-01,Smartphone,Apple,1500,Success,Completed
+TXN-002,2026-09-02,Tablet,Samsung,2200,Success,Completed
+TXN-003,2026-09-03,Laptop,Dell,3800,Success,Completed
+TXN-004,2026-09-04,Smartphone,Oppo,800,Success,Pending Pickup
+TXN-005,2026-09-05,Tablet,iPad,2500,Success,Completed
+TXN-006,2026-09-06,Laptop,MacBook,5500,Success,Completed
+TXN-007,2026-09-07,Smartphone,Samsung,1200,Success,Completed

@@ -1,0 +1,4 @@
+batch_id,device_type,total_weight_kg,gold_gram,copper_kg,plastic_kg,recycling_revenue_thb
+BAT-01,Smartphone,50.0,12.5,15.0,20.0,45000
+BAT-02,Laptop,120.0,8.2,45.0,50.0,85000
+BAT-03,Tablet,80.0,5.0,25.0,40.0,52000
